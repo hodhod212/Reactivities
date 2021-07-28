@@ -1,3 +1,4 @@
+C# Application by react in frontend
 ## dotnet new sln
 
 ## dotnet new webapi -n API
