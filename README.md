@@ -88,4 +88,4 @@
 
 ## git push -u origin main
 
-##
+## npx create-react-app client-app --use-npm --template typescript
